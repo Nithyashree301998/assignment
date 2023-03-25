@@ -1,0 +1,39 @@
+{
+    "employees": [
+    {
+        "name": "Ashok",
+        "dob": "06-03-1968",
+        "height": 170,
+        "city": "Chennai",
+        "state": "TN"
+    },
+    {
+        "name": "Bhadrinath",
+        "dob": "26-10-2002",
+        "height": 175,
+        "city": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "name": "Nithya",
+        "dob": "30-08-1998",
+        "height": 171,
+        "city": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "name": "Karthik",
+        "dob": "09-11-1989",
+        "height": 175,
+        "city": "Mysore",
+        "state": "Karnataka"
+    },
+    {
+        "name": "Anitha",
+        "dob": "29-04-1975",
+        "height": 165,
+        "city": "Hosur",
+        "state": "TN"
+    }
+]
+}

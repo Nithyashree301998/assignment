@@ -61,8 +61,8 @@ class User:
             if password==user_obj.get_password():
                 print("Login successfull")
         
-        #else:
-         #   print("Login unsuccessfull")
+        else:
+            print("Login unsuccessfull")
 
 
     order_items=[]       
